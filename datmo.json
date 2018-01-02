@@ -13,7 +13,7 @@
     "description": "Self Driving RC car using opencv and Keras",
     "env_meta": null,
     "flags": 1,
-    "git_remote_url": "https://github.com/pseudoyim/galvaneye.git",
+    "git_remote_url": "https://github.com/shabazpatel/galvaneye.git",
     "git_rev": null,
     "id": "v859rskb4d1e",
     "is_owner": true,
