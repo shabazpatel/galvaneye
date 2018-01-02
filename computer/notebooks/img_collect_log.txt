@@ -1,0 +1,9 @@
+Date: 01/02/18
+Time: 19:06:50
+Total frames: 1000
+Saved frames: 399
+Dropped frames: 601
+Forward clicks: 101
+Forward-left clicks: 102
+Forward-right clicks: 104
+-----------------------------

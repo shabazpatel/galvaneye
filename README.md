@@ -1,3 +1,6 @@
+[![Datmo Model](https://datmo.com/shabazp/galvaneye/badge.svg)](https://datmo.com/shabazp/galvaneye)
+
+
 # galvanEye
   Building on the original work of [Hamuchiwa](https://github.com/hamuchiwa/AutoRCCar), I incorporated image preprocessing in OpenCV and used Keras (TensorFlow backend) to train a neural network that could drive a remote control (RC) car and detect common environmental variables using computer vision. This project fulfilled the capstone requirement for my graduation from the Data Science Immersive program at Galvanize in Austin, Texas (August-November 2016). For a high-level overview of this project, please see this [slide deck](https://github.com/pseudoyim/galvaneye/blob/master/galvaneye.pptx).
 
